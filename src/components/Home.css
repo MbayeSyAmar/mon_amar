@@ -1,0 +1,28 @@
+/* src/components/Home.css */
+.home {
+    background-color: #fff;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 80%;
+    max-width: 800px;
+    text-align: center;
+  }
+  
+  .home .profile-pic {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-top: 10px;
+  }
+  
+  .home h2 {
+    margin-top: 20px;
+  }
+  
+  .home p {
+    font-size: 1.1em;
+    line-height: 1.5;
+  }
+  

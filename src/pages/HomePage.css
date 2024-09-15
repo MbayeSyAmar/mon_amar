@@ -1,0 +1,75 @@
+.home {
+    padding: 40px;
+    background-color: #f9f9f9;
+    text-align: center;
+  }
+  
+  .home h1 {
+    font-size: 36px;
+    color: #17a2b8; /* Main accent color */
+    margin-bottom: 20px;
+  }
+  
+  .home p {
+    font-size: 18px;
+    color: #555; /* Soft gray for text */
+    line-height: 1.6;
+    max-width: 800px;
+    margin: 0 auto;
+    margin-bottom: 40px;
+  }
+  
+  .profile-photo {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 3px solid #17a2b8;
+    margin-bottom: 20px;
+  }
+  
+  .sections {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  .section {
+    background-color: #fff;
+    padding: 20px;
+    border-left: 4px solid #17a2b8;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    text-align: left;
+  }
+  
+  .section h2 {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  .section p {
+    font-size: 16px;
+    color: #666;
+    line-height: 1.5;
+  }
+  
+  .button-container {
+    margin-top: 30px;
+  }
+  
+  .download-button {
+    background-color: #17a2b8;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: none;
+    font-size: 16px;
+  }
+  
+  .download-button:hover {
+    background-color: #138496; /* Darker hover effect */
+  }
+  

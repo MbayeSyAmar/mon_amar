@@ -1,0 +1,41 @@
+/* src/components/Projects.css */
+.projects {
+    background-color: #fff;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 80%;
+    max-width: 800px;
+    text-align: center;
+  }
+  
+  .projects h2 {
+    margin-bottom: 20px;
+  }
+  
+  .project-card {
+    width: 45%;
+    padding: 10px;
+    margin: 10px auto;
+    border-radius: 10px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    background-color: #f9f9f9;
+    text-align: center;
+  }
+  
+  .project-card img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+  }
+  
+  .project-card h3 {
+    margin: 10px 0;
+  }
+  
+  .project-card p {
+    font-size: 0.9em;
+    color: #555;
+  }
+  

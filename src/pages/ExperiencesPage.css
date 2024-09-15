@@ -1,0 +1,30 @@
+.experiences {
+    padding: 20px;
+  }
+  
+  h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .experience-item {
+    background-color: #f0f8ff;
+    border-left: 4px solid #007bff;
+    padding: 15px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .experience-item h3 {
+    font-size: 20px;
+    color: #007bff;
+    margin-bottom: 10px;
+  }
+  
+  .experience-item p {
+    font-size: 16px;
+    color: #555;
+    line-height: 1.5;
+  }
+  

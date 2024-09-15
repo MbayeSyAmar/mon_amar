@@ -1,0 +1,29 @@
+.projects {
+    padding: 20px;
+  }
+  
+  .project-list {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+  
+  .project-item {
+    background-color: #f0f8ff; /* Change to a soft background color */
+    border-left: 4px solid #007bff; /* Use a blue border similar to EducationPage */
+    padding: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+  }
+  
+  .project-item h3 {
+    font-size: 20px;
+    color: #007bff; /* Match the color to the border */
+    margin-bottom: 10px;
+  }
+  
+  .project-item p {
+    font-size: 16px;
+    color: #555; /* Use a soft gray color for the description */
+    line-height: 1.5;
+  }
+  
